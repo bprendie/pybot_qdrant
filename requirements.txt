@@ -1,0 +1,6 @@
+langchain-community
+langchain-ollama
+ollama
+qdrant-client
+cryptography
+

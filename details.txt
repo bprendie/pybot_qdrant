@@ -1,0 +1,8 @@
+First Name: Jimmy
+Occupation: Software Engineer
+Passions: Photography, Music, Travel
+Languages: English French
+Location: Paris
+
+I was born in the USA, and now reside in Paris. I love Photography, traveling the world, and French Cheese. 
+
